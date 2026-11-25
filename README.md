@@ -20,7 +20,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 ## 💀 About Me
@@ -60,7 +60,7 @@
 </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
 ## 🚀 Featured Projects
@@ -159,10 +159,10 @@ npm install && npm start
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ═══════════════ TECH ═══════════════ -->
-## 🛠️ Tech Arsenal
+## 🛠️ My Tech Stack
 
 <div align="center">
 
@@ -192,7 +192,7 @@ npm install && npm start
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ═══════════════ ANALYTICS ═══════════════ -->
 ## 📊 GitHub Analytics
@@ -219,7 +219,7 @@ npm install && npm start
 </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
 ## 🌐 Connect & Collaborate
