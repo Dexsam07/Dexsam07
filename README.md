@@ -8,7 +8,7 @@
 <table>
 <tr>
 <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/shyam-photo.svg" width="220" alt="Shyam Chaudhari - DEX SHYAM TECH"/></td>
-<td align="center" valign="middle"><img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/shyam-video.svg" width="150" alt="DEX SHYAM TECH video"/></td>
+<td align="center" valign="middle"><a href="https://files.catbox.moe/0wxwcs.mp4"><img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/shyam-video.svg" width="150" alt="Tap to play the video with sound"/></a></td>
 </tr>
 </table>
 
@@ -165,6 +165,79 @@ npm install && npm start
 </td>
 </tr>
 </table>
+
+### 🤖 More Public Bots
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ AS-BOT
+*Modular personal WhatsApp bot*
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Stars](https://img.shields.io/github/stars/Dexsam07/AS-BOT?style=social)
+![Forks](https://img.shields.io/github/forks/Dexsam07/AS-BOT?style=social)
+
+- 🧩 Plugin system with an interactive menu
+- 💾 Persistent storage and guarded owner commands
+- 🔄 GitHub self-update, Docker and Heroku ready
+
+[View Project →](https://github.com/Dexsam07/AS-BOT)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ As-zara-mini
+*MD-style multi-command WhatsApp bot*
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Stars](https://img.shields.io/github/stars/Dexsam07/As-zara-mini?style=social)
+![Forks](https://img.shields.io/github/forks/Dexsam07/As-zara-mini?style=social)
+
+- 📋 Multi-command MD-style bot on Baileys
+- 🩺 Full command list and command health audit in the repo
+
+[View Project →](https://github.com/Dexsam07/As-zara-mini)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👑 LEGEND-MD
+*WhatsApp automation tool*
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Stars](https://img.shields.io/github/stars/Dexsam07/LEGEND-MD?style=social)
+![Forks](https://img.shields.io/github/forks/Dexsam07/LEGEND-MD?style=social)
+
+- 🖥️ Two-stage dashboard
+- 🤝 Telegram bot integration
+- ☁️ Render deploy file included
+
+[View Project →](https://github.com/Dexsam07/LEGEND-MD)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Nexvani
+*Multi-session WhatsApp bot*
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Stars](https://img.shields.io/github/stars/Dexsam07/Nexvani?style=social)
+![Forks](https://img.shields.io/github/forks/Dexsam07/Nexvani?style=social)
+
+- 👥 Multi-session with a plugin system
+- 🛡️ Group moderation and media utilities
+- 🗣️ Localized responses and an optional HTTP API
+
+[View Project →](https://github.com/Dexsam07/Nexvani)
+
+</td>
+</tr>
+</table>
+
 
 <img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/divider.svg" width="100%" alt="divider"/>
 
