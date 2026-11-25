@@ -161,6 +161,24 @@ npm install && npm start
 
 <img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/divider.svg" width="100%" alt="divider"/>
 
+<!-- ═══════════════ SHOWCASE ═══════════════ -->
+## 🎬 Showcase
+
+<div align="center">
+<table>
+<tr>
+<td align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/shyam-photo.svg" width="420" alt="Shyam Chaudhari - DEX SHYAM TECH"/>
+</td>
+<td align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/shyam-video.svg" width="240" alt="DEX SHYAM TECH video"/>
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/divider.svg" width="100%" alt="divider"/>
+
 <!-- ═══════════════ TECH ═══════════════ -->
 ## 🛠️ My Tech Stack
 
