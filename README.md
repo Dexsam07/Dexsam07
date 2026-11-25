@@ -5,12 +5,7 @@
 
 <a href="https://github.com/Dexsam07"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=FF2D2D&center=true&vCenter=true&width=760&height=60&lines=%F0%9F%92%80+MR+Shyam+%7C+Midnight-Dex;%F0%9F%A4%96+WhatsApp+MD+Bot+Developer;%E2%9A%A1+Creator+of+DexBaileys;%F0%9F%94%A5+Builder+of+SHYAM-MD+%26+DEMON-MD;%F0%9F%9A%80+Quality+over+quantity.+Fast+replies+only." alt="Typing animation"/></a>
 
-<table>
-<tr>
-<td align="center" valign="middle"><img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/shyam-photo.svg" width="220" alt="Shyam Chaudhari - DEX SHYAM TECH"/></td>
-<td align="center" valign="middle"><a href="https://files.catbox.moe/0wxwcs.mp4"><img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/shyam-video.svg" width="150" alt="Tap to play the video with sound"/></a></td>
-</tr>
-</table>
+<a href="https://whatsapp.com/channel/0029VbBgXTsKwqSKZKy38w2o"><img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/shyam-photo.svg" width="480" alt="Shyam Chaudhari - DEX SHYAM TECH"/></a>
 
 <br/>
 
@@ -28,6 +23,15 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/divider.svg" width="100%" alt="divider"/>
+
+<!-- ═══════════════ INTRO VIDEO ═══════════════ -->
+<h2 align="center">🎥 Watch My Intro</h2>
+
+<div align="center">
+<a href="https://files.catbox.moe/0wxwcs.mp4"><img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/shyam-video.svg" width="280" alt="Tap to play my intro video with sound"/></a>
+</div>
+
+<br/>
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 ## 💀 About Me
