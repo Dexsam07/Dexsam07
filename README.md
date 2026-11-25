@@ -28,7 +28,9 @@
 <h2 align="center">🎥 Watch My Intro</h2>
 
 <div align="center">
-<a href="https://files.catbox.moe/0wxwcs.mp4"><img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/shyam-video.svg" width="280" alt="Tap to play my intro video with sound"/></a>
+<a href="https://github.com/Dexsam07/Dexsam07/blob/main/assets/intro.mp4"><img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/shyam-video.svg" width="280" alt="Tap to play my intro video with sound"/></a>
+<br/>
+<sub>▶️ <a href="https://github.com/Dexsam07/Dexsam07/blob/main/assets/intro.mp4">Play with sound</a> &nbsp;•&nbsp; <a href="https://files.catbox.moe/0wxwcs.mp4">Backup link</a></sub>
 </div>
 
 <br/>
