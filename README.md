@@ -5,6 +5,13 @@
 
 <a href="https://github.com/Dexsam07"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=FF2D2D&center=true&vCenter=true&width=760&height=60&lines=%F0%9F%92%80+MR+Shyam+%7C+Midnight-Dex;%F0%9F%A4%96+WhatsApp+MD+Bot+Developer;%E2%9A%A1+Creator+of+DexBaileys;%F0%9F%94%A5+Builder+of+SHYAM-MD+%26+DEMON-MD;%F0%9F%9A%80+Quality+over+quantity.+Fast+replies+only." alt="Typing animation"/></a>
 
+<table>
+<tr>
+<td align="center" valign="middle"><img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/shyam-photo.svg" width="220" alt="Shyam Chaudhari - DEX SHYAM TECH"/></td>
+<td align="center" valign="middle"><img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/shyam-video.svg" width="150" alt="DEX SHYAM TECH video"/></td>
+</tr>
+</table>
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Dexsam07&color=FF2D2D&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -158,24 +165,6 @@ npm install && npm start
 </td>
 </tr>
 </table>
-
-<img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/divider.svg" width="100%" alt="divider"/>
-
-<!-- ═══════════════ SHOWCASE ═══════════════ -->
-## 🎬 Showcase
-
-<div align="center">
-<table>
-<tr>
-<td align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/shyam-photo.svg" width="420" alt="Shyam Chaudhari - DEX SHYAM TECH"/>
-</td>
-<td align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/shyam-video.svg" width="240" alt="DEX SHYAM TECH video"/>
-</td>
-</tr>
-</table>
-</div>
 
 <img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/divider.svg" width="100%" alt="divider"/>
 
