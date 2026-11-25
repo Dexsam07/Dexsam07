@@ -238,6 +238,13 @@ npm install && npm start
 </tr>
 </table>
 
+### ⚙️ SHYAM-MD Features
+
+<div align="center">
+<a href="https://github.com/Dexsam07/SHYAM-MD"><img src="https://raw.githubusercontent.com/Dexsam07/SHYAM-MD/main/Shyam/feature-bot.svg" width="100%" alt="SHYAM-MD bot features"/></a>
+</div>
+
+
 
 <img src="https://raw.githubusercontent.com/Dexsam07/Dexsam07/main/assets/divider.svg" width="100%" alt="divider"/>
 
@@ -314,6 +321,11 @@ npm install && npm start
 <a href="https://github.com/Dexsam07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://github.com/Dexsam07/SHYAM-MD/issues"><img src="https://img.shields.io/badge/Report_a_Bug-7A0000?style=for-the-badge&logo=githubactions&logoColor=white" alt="Report a bug"/></a>
 
+<br/><br/>
+
+<a href="https://youtube.com/@dex_shyam_tech"><img src="https://raw.githubusercontent.com/Dexsam07/SHYAM-MD/main/Shyam/youtube.svg" height="70" alt="Subscribe on YouTube"/></a>
+<a href="https://whatsapp.com/channel/0029Vb3NerLF6smqIV9Q0J15"><img src="https://raw.githubusercontent.com/Dexsam07/SHYAM-MD/main/Shyam/channel-update.svg" height="70" alt="Bot updates WhatsApp channel"/></a>
+
 </div>
 
 | Where | What you get |
@@ -331,6 +343,10 @@ npm install && npm start
 @ Test on a real phone before you call it done.
 ```
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Dexsam07/SHYAM-MD/main/Shyam/nolove.svg" width="460" alt="No love, no stress"/>
+</div>
+
 ## ⚠️ Disclaimer
 
 My bots are not affiliated with WhatsApp Inc. Use them at your own risk. Misuse can get an account banned.
@@ -338,6 +354,8 @@ My bots are not affiliated with WhatsApp Inc. Use them at your own risk. Misuse 
 <div align="center">
 
 ### ⭐ If my work helps you, star the repo. It keeps me building. ⭐
+
+<a href="https://github.com/Dexsam07/SHYAM-MD"><img src="https://raw.githubusercontent.com/Dexsam07/SHYAM-MD/main/Shyam/forkstar-holo.svg" width="300" alt="Fork and star the repo"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050816,50:FF2D2D,100:7A0000" width="100%" alt="footer"/>
 
