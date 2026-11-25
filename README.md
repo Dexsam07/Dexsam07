@@ -37,16 +37,16 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt=""/> About Me
 
 ```bash
-┌──(shyam㉿dex-shyam-tech)-[~/whoami]
+┌──(dex㉿midnight)-[~/whoami]
 └─$ cat profile.json
 {
   "name"     : "Shyam Chaudhari",
-  "alias"    : ["MR Shyam", "Midnight-Dex"],
+  "alias"    : "Midnight-Dex",
   "brand"    : "DEX SHYAM TECH",
   "location" : "India 🇮🇳",
   "role"     : ["WhatsApp Bot Developer", "Library Author", "Creator"],
   "focus"    : ["Baileys", "Node.js", "Bot Automation", "Deploy Setups"],
-  "projects" : ["DexBaileys", "SHYAM-MD", "DEMON-MD", "SHYAM-TECH TOOLKIT"],
+  "projects" : ["DexBaileys", "SHYAM-MD", "DEMON-MD"],
   "rule"     : "Quality over quantity. Every command must work, and fast."
 }
 ```
